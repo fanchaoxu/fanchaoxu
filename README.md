@@ -12,7 +12,8 @@
 2、熟练使用Mysql，PostgreSQL等常用数据库，以及Redis，Hazelcast等缓存中间件
 3、熟悉SpringBoot、SpringCloud框架，熟悉Kafka的使用配置以及基本原理
 4、熟悉Vue,NodeJs等前端框架，熟练使用Linux基本命令对项目进行部署上线，了解Nginx的基本配置
-5、熟练使用IDEA、Visual Studio Code等工具进行前后端开发联调。熟悉Git、Maven、Gradle等代码管理与构建工具。使用过JIRA、禅道、Confluence以及语雀等项目管理工具~~~~
+5、熟悉Python，了解PyQt的基本用法，完成过相应工具设计与开发
+6、熟练使用IDEA、Visual Studio Code等工具进行前后端开发联调。熟悉Git、Maven、Gradle等代码管理与构建工具。使用过JIRA、禅道、Confluence以及语雀等项目管理工具~~~~
       
 # 工作经历
 ## 上海深擎信息科技有限公司（2021年9月~2022-12月）
